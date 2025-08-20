@@ -17,3 +17,11 @@ Finding my way through this challenge I plan to seek answers to two key question
 2. What attack methods are most favored by adversaries to exploit these vulnerabilities?
 
 By analyzing cybersecurity incident and vunerability datasets, the goal of this project is to find trends in how attackers operate. By understanding these patterns, we can be proactive about future cyber attacks by prioritizing defense strategies, improve detection of anomalies, and allocate our resources effectively to prevent million to billion dollar losses. This is especially important considering the risk of cyberattacks is only projected to over the upcoming years
+
+
+## Possible APIs
+- https://www.kaggle.com/
+
+According to my short research, both of these sites have the type of datasets I am looking for and I am allowed to use their data. And a perk each dataset has a 'usability' score that determines variables like Completeness, Credibility, and Compatibilty so I can have insights on my datasets.
+
+
