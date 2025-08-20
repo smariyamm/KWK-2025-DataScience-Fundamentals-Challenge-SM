@@ -25,3 +25,11 @@ By analyzing cybersecurity incident and vunerability datasets, the goal of this 
 According to my short research, both of these sites have the type of datasets I am looking for and I am allowed to use their data. And a perk each dataset has a 'usability' score that determines variables like Completeness, Credibility, and Compatibilty so I can have insights on my datasets.
 
 
+# Module 2
+- learned how to clean datasets (very basic cleaning, specifying what headers I need, dropping rows with missing values etc.)
+- Cleaned my 4 datasets
+
+# Module 3
+
+
+
