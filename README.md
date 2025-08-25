@@ -30,6 +30,8 @@ According to my short research, both of these sites have the type of datasets I 
 - Cleaned my 4 datasets
 
 # Module 3
+- out of the given options, I've decided to stick with using Python and it's numerous libraries to create my data visualizations. I am very familier with python and one of my main goals from this challenge is to learn new things outside of my college classes.
+- For the sake of time, if I am unable to learn new things with my current schedual I will choose Excel as my back sine i have some experience creating visuals using it from before.
 
 
 
