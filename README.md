@@ -9,7 +9,7 @@
 
 ## Problem Statement
 
-Over the years cyberattacks have continued to grow, they have become more frequent and extremly sophisticated costing businesses and organizations billions of dollars while affected millions of victims who have theirsensitive data exposed. Beacuse of the nature of cyber attacks, thousands of causes are documented every year but its not always clear which vulnerabilites are most commonly exploited and which attack methods adversaries favor.
+Over the years cyberattacks have continued to grow, they have become more frequent and extremly sophisticated costing businesses and organizations billions of dollars while affected millions of victims who have their sensitive data exposed. Beacuse of the nature of cyber attacks, thousands of causes are documented every year but its not always clear which vulnerabilites are most commonly exploited and which attack methods adversaries favor.
 
 Finding my way through this challenge I plan to seek answers to two key questions:
 
@@ -31,7 +31,19 @@ According to my short research, both of these sites have the type of datasets I 
 
 # Module 3
 - out of the given options, I've decided to stick with using Python and it's numerous libraries to create my data visualizations. I am very familier with python and one of my main goals from this challenge is to learn new things outside of my college classes.
-- For the sake of time, if I am unable to learn new things with my current schedual I will choose Excel as my back sine i have some experience creating visuals using it from before.
+- For the sake of time, if I am unable to learn new things with my current schedual I will choose Excel as my back since I have some experience creating visuals using it from before.
 
-# 
+# Conclusions
+- Most Frequent Vulnerabilities: Cybercriminals' most frequent vulnerabilities to exploit are unpatched software, zero-day vulnerabilities, and weak passwords. They are widespread and have the ability to allow attackers to gain access or crash systems with ease.
+
+- Most Common Attack Methods: Globally, Phishing and DDoS attacks are the most common ones, followed by other common methods such as Ransomware, Dependency Confusion, Hardware Exploitation, and Wireless Attacks. These attacks hit both technical vulnerabilities and human nature.
+
+# Insights:
+- Organizations can be proactive to fix high-risk vulnerabilities, improve detection, and prioritize defenses by knowing about these trends.
+Security teams can prioritize their resources better by correlating vulnerabilities with the attacks they enable, and avoid mass data breaches and financial losses.
+
+
+# Drawbacks
+- While I truly enjoyed learning how to work with and manipulate data, I wasn’t able to dedicate my full effort to creating visualizations.
+- This challenge coincided with the start of my semester, which made it difficult to give 100% focus. However, balancing both helped me practice time management and still gain valuable skills despite the circumstances.
 
